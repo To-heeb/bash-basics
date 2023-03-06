@@ -1,0 +1,15 @@
+total 15
+-rwxr-xr-x 1 User 197121 193 Mar  5 18:51 break.sh
+-rwxr-xr-x 1 User 197121 497 Mar  5 18:52 conditionals.sh
+-rwxr-xr-x 1 User 197121 103 Feb 28 21:23 continue.sh
+-rw-r--r-- 1 User 197121   0 Mar  1 19:36 filelist.txt
+-rwxr-xr-x 1 User 197121 161 Feb 28 21:06 forloop.sh
+-rwxr-xr-x 1 User 197121 230 Mar  4 12:13 helloworld.sh
+-rw-r--r-- 1 User 197121   0 Mar  5 18:54 myout.txt
+-rwxr-xr-x 1 User 197121 488 Feb 28 22:16 numbers_arithmetics.sh
+-rwxr-xr-x 1 User 197121  62 Mar  5 18:54 redirection.sh
+-rwxr-xr-x 1 User 197121 234 Feb 28 21:47 string_processing.sh
+-rwxr-xr-x 1 User 197121 269 Mar  1 18:05 test.sh
+-rwxr-xr-x 1 User 197121  64 Feb 28 21:14 untilloop.sh
+-rwxr-xr-x 1 User 197121  81 Feb 28 21:09 whileloop.sh
+More logs

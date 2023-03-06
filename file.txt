@@ -1,0 +1,26 @@
+total 32
+-rwxr-xr-x 1 User 197121 254 Mar  5 22:31 arrays.sh
+-rwxr-xr-x 1 User 197121 193 Mar  5 18:51 break.sh
+-rwxr-xr-x 1 User 197121  50 Mar  5 19:59 communicate.sh
+-rwxr-xr-x 1 User 197121 497 Mar  5 18:52 conditionals.sh
+-rwxr-xr-x 1 User 197121 103 Feb 28 21:23 continue.sh
+-rw-r--r-- 1 User 197121  44 Mar  5 19:51 file.err
+-rw-r--r-- 1 User 197121   0 Mar  5 19:51 file.out
+-rw-r--r-- 1 User 197121   0 Mar  5 22:39 file.txt
+-rw-r--r-- 1 User 197121   0 Mar  5 19:49 filelist.txt
+-rwxr-xr-x 1 User 197121  41 Mar  5 19:59 first_script.sh
+-rwxr-xr-x 1 User 197121 161 Feb 28 21:06 forloop.sh
+-rwxr-xr-x 1 User 197121 455 Mar  5 22:24 functions.sh
+-rwxr-xr-x 1 User 197121 230 Mar  4 12:13 helloworld.sh
+-rw-r--r-- 1 User 197121 743 Mar  5 18:54 myout.txt
+-rwxr-xr-x 1 User 197121 488 Mar  5 22:31 numbers_arithmetics.sh
+-rwxr-xr-x 1 User 197121 702 Mar  5 22:34 recursion.sh
+-rwxr-xr-x 1 User 197121  62 Mar  5 18:54 redirection.sh
+-rwxr-xr-x 1 User 197121 444 Mar  5 19:34 stdio.sh
+-rwxr-xr-x 1 User 197121  81 Mar  5 19:31 stdio_file.sh
+-rwxr-xr-x 1 User 197121 110 Mar  5 19:51 stdout.sh
+-rwxr-xr-x 1 User 197121  26 Mar  5 19:51 stdout_single.sh
+-rwxr-xr-x 1 User 197121 234 Feb 28 21:47 string_processing.sh
+-rwxr-xr-x 1 User 197121 269 Mar  1 18:05 test.sh
+-rwxr-xr-x 1 User 197121  64 Feb 28 21:14 untilloop.sh
+-rwxr-xr-x 1 User 197121  81 Feb 28 21:09 whileloop.sh
