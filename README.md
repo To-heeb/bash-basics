@@ -1,6 +1,6 @@
 # Bash Scripting foundation
 
-Shebang
+Shebang:
 bash scripts starts with this
 
 ```

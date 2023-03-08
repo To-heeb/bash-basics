@@ -14,3 +14,4 @@ echo "${myarr[@]}"
 myarr[2]='baz'
 echo "${myarr[@]}"
 
+echo "${myarr[@]:1:4"
