@@ -61,3 +61,12 @@ done
 
 # $#
 # In this example, $# is used to get the number of arguments passed to the script, and $@ is used to get a list of all the arguments.
+
+# $?
+# In Bash, $? is a special shell variable that contains the exit status of the last executed command.The exit status is a numerical value that indicates whether the command was successful or not. Conventionally, an exit status of 0 indicates success, while a non-zero exit status indicates failure
+
+# command-that-may-fail
+curl -s https://dummy.restapiexample.com/api/v1/employees
+if [ $? -ne 0 ]; then
+    echo "Command failed"
+fi
